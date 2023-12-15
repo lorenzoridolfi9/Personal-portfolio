@@ -15,7 +15,7 @@ The home is the main section and is structured like this:
 - Skills section where all the technologies in possession are present, logically divided as Front-end, Back-end, Databases, Data Science, AI, etc.
 - Footer where there is a reminder to contact via email and via social channels such as LinkedIn, GitHub, X and Instagram.
 
-# Work 👨🏻‍💻👨
+# Work 👨🏻‍💻
 The Work section reports the work path with the position held, the technologies used, the company, the location of the company and the duration of the experience.
 Furthermore, the three main activities carried out which contributed to professional training within the company are reported
 
